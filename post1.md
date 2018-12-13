@@ -77,8 +77,8 @@ exec_usermodehelper)
 *
 * Runs a user-space application. The application is started 
 
-asynchronously. It
-* runs as a child of keventd. It runs with full root capabilities. 
+
+
 
 keventd silently
 * reaps the child when it exits.
